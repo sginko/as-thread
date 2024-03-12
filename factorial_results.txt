@@ -1,0 +1,13 @@
+
+10! (10 pierwszych cyfr) = 3628800 PID id =10252 TID id = 22
+1000! (10 pierwszych cyfr) = 4023872600 PID id =10252 TID id = 23
+10000! (10 pierwszych cyfr) = 2846259680 PID id =10252 TID id = 34
+200000! (10 pierwszych cyfr) = 1420225345 PID id =10252 TID id = 38
+2 do potęgi 100 (10 pierwszych cyfr) = 9223372036 PID id =10252 TID id = 40
+100 do potęgi 10 (10 pierwszych cyfr) = 9223372036 PID id =10252 TID id = 41
+1000 do potęgi 1000 (10 pierwszych cyfr) = 9223372036 PID id =10252 TID id = 42
+10000 do potęgi 153235 (10 pierwszych cyfr) = 9223372036 PID id =10252 TID id = 43
+20! (10 pierwszych cyfr) = 2432902008 PID id =22228 TID id = 22
+100! (10 pierwszych cyfr) = 9332621544 PID id =22228 TID id = 33
+50000! (10 pierwszych cyfr) = 3347320509 PID id =22228 TID id = 36
+200000! (10 pierwszych cyfr) = 1420225345 PID id =22228 TID id = 34
