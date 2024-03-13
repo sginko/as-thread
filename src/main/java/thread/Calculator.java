@@ -1,4 +1,4 @@
-package org.example;
+package thread;
 
 import java.util.Scanner;
 

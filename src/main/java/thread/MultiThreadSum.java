@@ -1,4 +1,4 @@
-package org.example;
+package thread;
 
 import static java.lang.Thread.MAX_PRIORITY;
 import static java.lang.Thread.MIN_PRIORITY;
